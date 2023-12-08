@@ -1,4 +1,4 @@
 public class student2 {
 
-    System.out.println("This is a commited file in staging ");
+    System.out.println("Master: This is a commited file in staging ");
 }
